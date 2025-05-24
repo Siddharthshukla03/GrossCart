@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668149470903",
+    "project_id": "grosscart-25f5f",
+    "storage_bucket": "grosscart-25f5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668149470903:android:fbcb83f8e8de2b33e45f32",
+        "android_client_info": {
+          "package_name": "com.example.flash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDco7zOUzRksYpsfVkZZeljfKVqQ-9EI4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
