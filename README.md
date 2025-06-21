@@ -1,4 +1,4 @@
-# GROSSCART
+# GrossCart
 
 Gross Cart is a versatile Android application designed to provide a seamless shopping experience for a wide range of daily essentials. Whether it’s groceries, beverages, kitchen supplies, vegetables, or household items, Gross Cart brings everything under one digital roof. Built with Kotlin and Jetpack Compose, the app delivers a smooth and modern user experience.
 
